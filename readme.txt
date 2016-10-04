@@ -1,4 +1,4 @@
-Breakout - Manuel Sabu Melvettam
+Brick Breaker - Manuel Sabu Melvettam
 
 Requirement:
 
